@@ -1,3 +1,5 @@
+Simple Web App created in React using Adventure Web API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
